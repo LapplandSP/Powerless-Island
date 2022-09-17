@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/mount_fuji_flat.svg</file>
+    </qresource>
+</RCC>
